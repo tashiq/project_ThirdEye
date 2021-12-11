@@ -1,6 +1,10 @@
 # project_ThirdEye
-Developed By:
+Components:
 
-1. Fahim Foisal (Me)
+> Arduino Uno R3
 
-2. Saifuddin Sabbir
+> Ultrasonic sensor
+
+> Buzzer
+
+> Jumper wires.
